@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "Borodinski.webp",
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Borodinski.webp",
     "name": "Барбершоп Borodinski",
     "text": "Какое-то краткое описание проекта 1",
     "urlCode": "url-code-Borodinski", 
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "img": "Cards-gallery.webp",
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Cards-gallery.webp",
     "name": "Cards-gallery",
     "text": "Какое-то краткое описание проекта №2",
     "urlCode": "url-code-cards-gallery", 
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "img": "Desire.webp",
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Desire.webp",
     "name": "Desire",
     "text": "Какое-то краткое описание проекта №3",
     "urlCode": "url-code-desire", 
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "img": "Pink.webp",
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
     "name": "Pink",
     "text": "Какое-то краткое описание проекта №4",
     "urlCode": "url-code-pink", 
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "img": "V-slider.webp",
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/V-slider.webp",
     "name": "V-slider",
     "text": "Какое-то краткое описание проекта №5",
     "urlCode": "url-code_v-slider", 
