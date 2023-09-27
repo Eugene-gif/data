@@ -38,5 +38,13 @@
     "text": "Какое-то краткое описание проекта №5",
     "urlCode": "url-code_v-slider", 
     "urlProject": "url-project_v-slider"
+  },
+  {
+    "id": 6,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/es.webp",
+    "name": "Easy Speak",
+    "text": "Какое-то краткое описание проекта Easy Speak",
+    "urlCode": "es-code",
+    "urlProject": "es-project"
   }
 ]
