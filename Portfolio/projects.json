@@ -3,7 +3,7 @@
     "id": 1,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/AdSkill.webp",
     "name": "AdSkill",
-    "text": "Коммерческий проект.\\n1 AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
+    "text": "Коммерческий проект. AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы. Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
     "urlCode": "https://github.com/Eugene-gif/AdSkill", 
     "urlProject": "https://client.as.dev.antonymous.ru"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Qplet.webp",
     "name": "Qplet",
-    "text": "Коммерческий проект.\n Qplet - это площадка для начинающих музыкантов и их слушателей.\n Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
+    "text": "Коммерческий проект. Qplet - это площадка для начинающих музыкантов и их слушателей. Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
     "urlCode": "https://github.com/Eugene-gif/Qplet", 
     "urlProject": "https://web.qp.dev.antonymous.ru/home"
   },
@@ -19,56 +19,56 @@
     "id": 3,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/EasySpeak.webp",
     "name": "Easy Speak",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "Коммерческий проект. Easy Speak или Говри Легко - это лендинг с описанием и возможностью покупок героев, используемых в мобильном обучающем приложении для детей. Используемые технологии: gulp, js, html, scss, BEM.",
+    "urlCode": "https://github.com/Eugene-gif/EasySpeak", 
+    "urlProject": "https://xn--b1abbhooevbfq.com/"
   },
   {
     "id": 4,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/UpRating.webp",
     "name": "UpRating",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   },
   {
     "id": 5,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Desire.webp",
     "name": "Desire",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   },
   {
     "id": 6,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Rentiz.webp",
     "name": "Rentiz",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   },
   {
     "id": 7,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
     "name": "Pink",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   },
   {
     "id": 8,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Build-house.webp",
     "name": "Build House",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   },
   {
     "id": 9,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Tykalka.webp",
     "name": "Игра: Тыкалка",
-    "text": "",
-    "urlCode": "", 
-    "urlProject": ""
+    "text": "No data",
+    "urlCode": "No data", 
+    "urlProject": "No data"
   }
 ]
