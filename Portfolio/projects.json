@@ -3,7 +3,7 @@
     "id": 1,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/AdSkill.webp",
     "name": "AdSkill",
-    "text": "Коммерческий проект.\\n AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
+    "text": "Коммерческий проект.\\n1 AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
     "urlCode": "https://github.com/Eugene-gif/AdSkill", 
     "urlProject": "https://client.as.dev.antonymous.ru"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Qplet.webp",
     "name": "Qplet",
-    "text": "Коммерческий проект.\\n Qplet - это площадка для начинающих музыкантов и их слушателей.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
+    "text": "Коммерческий проект.\n Qplet - это площадка для начинающих музыкантов и их слушателей.\n Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
     "urlCode": "https://github.com/Eugene-gif/Qplet", 
     "urlProject": "https://web.qp.dev.antonymous.ru/home"
   },
