@@ -3,7 +3,7 @@
     "id": 1,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/AdSkill.webp",
     "name": "AdSkill",
-    "text": "Коммерческий проект. AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы. Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, БЭМ.",
+    "text": "Коммерческий проект.\\n AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
     "urlCode": "https://github.com/Eugene-gif/AdSkill", 
     "urlProject": "https://client.as.dev.antonymous.ru"
   },
@@ -11,40 +11,64 @@
     "id": 2,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Qplet.webp",
     "name": "Qplet",
-    "text": "Коммерческий проект. ",
+    "text": "Коммерческий проект.\\n Qplet - это площадка для начинающих музыкантов и их слушателей.\\n Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
+    "urlCode": "https://github.com/Eugene-gif/Qplet", 
+    "urlProject": "https://web.qp.dev.antonymous.ru/home"
+  },
+  {
+    "id": 3,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/EasySpeak.webp",
+    "name": "Easy Speak",
+    "text": "",
     "urlCode": "", 
     "urlProject": ""
   },
   {
-    "id": 3,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Desire.webp",
-    "name": "Desire",
-    "text": "Какое-то краткое описание проекта №3",
-    "urlCode": "url-code-desire", 
-    "urlProject": "url-project-desire"
-  },
-  {
     "id": 4,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
-    "name": "Pink",
-    "text": "Какое-то краткое описание проекта №4",
-    "urlCode": "url-code-pink", 
-    "urlProject": "url-project-pink"
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/UpRating.webp",
+    "name": "UpRating",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
   },
   {
     "id": 5,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/V-slider.webp",
-    "name": "V-slider",
-    "text": "Какое-то краткое описание проекта №5",
-    "urlCode": "url-code_v-slider", 
-    "urlProject": "url-project_v-slider"
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Desire.webp",
+    "name": "Desire",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
   },
   {
     "id": 6,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/es.webp",
-    "name": "Easy Speak",
-    "text": "Какое-то краткое описание проекта Easy Speak",
-    "urlCode": "es-code",
-    "urlProject": "es-project"
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Rentiz.webp",
+    "name": "Rentiz",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
+  },
+  {
+    "id": 7,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
+    "name": "Pink",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
+  },
+  {
+    "id": 8,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Build-house.webp",
+    "name": "Build House",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
+  },
+  {
+    "id": 9,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Tykalka.webp",
+    "name": "Игра: Тыкалка",
+    "text": "",
+    "urlCode": "", 
+    "urlProject": ""
   }
 ]
