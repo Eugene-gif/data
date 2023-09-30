@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Borodinski.webp",
-    "name": "Барбершоп Borodinski",
-    "text": "Какое-то краткое описание проекта 1",
-    "urlCode": "url-code-Borodinski", 
-    "urlProject": "url-project-Borodinski"
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/AdSkill.webp",
+    "name": "AdSkill",
+    "text": "Коммерческий проект. AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы. Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, БЭМ.",
+    "urlCode": "https://github.com/Eugene-gif/AdSkill", 
+    "urlProject": "https://client.as.dev.antonymous.ru"
   },
   {
     "id": 2,
-    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Cards-gallery.webp",
-    "name": "Cards-gallery",
-    "text": "Какое-то краткое описание проекта №2",
-    "urlCode": "url-code-cards-gallery", 
-    "urlProject": "url-project-cards-gallery"
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Qplet.webp",
+    "name": "Qplet",
+    "text": "Коммерческий проект. ",
+    "urlCode": "", 
+    "urlProject": ""
   },
   {
     "id": 3,
