@@ -27,7 +27,7 @@
     "id": 4,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/UpRating.webp",
     "name": "UpRating",
-    "text": "UpRating - это сервис для поднятия рейтинга своего бизнеса на любой площадке. Используемые технологии: vite, vue3, quasar, js.",
+    "text": "Коммерческий проект. UpRating - это сервис для поднятия рейтинга своего бизнеса на любой площадке. Используемые технологии: vite, vue3, quasar, js.",
     "urlCode": "https://github.com/Eugene-gif/UpRating", 
     "urlProject": "https://admin.nfc.emitlab.ru/login"
   },
