@@ -43,7 +43,7 @@
     "id": 6,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Desire.webp",
     "name": "Desire",
-    "text": "Desire - это крупный MPA-сайт мебели. Включает в себя около 10 страниц. Адаптив под все типы устройств. Используемые технологии: gulp, html, js, scss, css, BEM.",
+    "text": "Pet-проект. Desire - это крупный MPA-сайт мебели. Включает в себя около 10 страниц. Адаптив под все типы устройств. Используемые технологии: gulp, html, js, scss, css, BEM.",
     "urlCode": "https://github.com/Eugene-gif/Desire", 
     "urlProject": "https://eugene-gif.github.io/Desire/"
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Rentiz.webp",
     "name": "Rentiz",
-    "text": "Rentiz - это адаптивный под все типы устройств лендинг по продаже и съему недвижимости. Используемые технологии: gulp, html, css, scss, js, BEM.",
+    "text": "Pet-проект. Rentiz - это адаптивный под все типы устройств лендинг по продаже и съему недвижимости. Используемые технологии: gulp, html, css, scss, js, BEM.",
     "urlCode": "https://github.com/Eugene-gif/Rentiz",
     "urlProject": "https://eugene-gif.github.io/Rentiz/" 
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
     "name": "Pink",
-    "text": "Pink - это многостраничный(MPA) адаптивный сайт приложения для создания красочных фото. Используемые технологии: gulp, html, css, scss, js, BEM.",
+    "text": "Pet-проект. Pink - это многостраничный(MPA) адаптивный сайт приложения для создания красочных фото. Используемые технологии: gulp, html, css, scss, js, BEM.",
     "urlCode": "https://github.com/Eugene-gif/Pink", 
     "urlProject": "https://eugene-gif.github.io/Pink/"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Build-house.webp",
     "name": "Build House",
-    "text": "Build House - это лендинг по продаже недвижимости в городе Краснодаре. Являлся моим тестовым заданием, после него я попал на работу. Используемые технологии: gulp, html, scss, js, BEM.",
+    "text": "Тестовое задание. Build House - это лендинг по продаже недвижимости в городе Краснодаре. Являлся моим тестовым заданием, после него я попал на работу. Используемые технологии: gulp, html, scss, js, BEM.",
     "urlCode": "https://github.com/Eugene-gif/BuildHouse", 
     "urlProject": "https://eugene-gif.github.io/BuildHouse/"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Tykalka.webp",
     "name": "Тыкалка",
-    "text": "Тыкалка - это небольшая забавная игра, находящаяся на одной html-странице с. Используемые технологии: html, css, js.",
+    "text": "Pet-проект. Тыкалка - это небольшая забавная игра, находящаяся на одной html-странице с. Используемые технологии: html, css, js.",
     "urlCode": "https://github.com/Eugene-gif/MiniGame/tree/master", 
     "urlProject": "https://eugene-gif.github.io/MiniGame/"
   }, 
@@ -83,7 +83,7 @@
     "id": 11,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/VSlider.webp",
     "name": "Vertical Slider",
-    "text": "Вертикальный слайдер - просто красивый красочный слайдер написанный на чистом html, css и js.",
+    "text": "Pet-проект. Вертикальный слайдер - просто красивый красочный слайдер написанный на чистом html, css и js.",
     "urlCode": "https://github.com/Eugene-gif/slider", 
     "urlProject": "https://eugene-gif.github.io/slider/"
   }
