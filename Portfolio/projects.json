@@ -1,6 +1,14 @@
 [
   {
-    "id": 1,
+    "id": 12,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/CRMD.webp",
+    "name": "CRMD",
+    "text": "Коммерческий проект. CRMD - это сервис для удобной работы подрядчиков и дизайнеров интерьеров. Проект имеет ролевую модель подрядчика и дизайнера. Используемые технологии: Webpack, Vue3, vuex, Vue-router, Quasar, JS, BEM, SCSS.",
+    "urlCode": "", 
+    "urlProject": "https://crmd1.tmweb.ru"
+  },
+  {
+    "id": 11,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/AdSkill.webp",
     "name": "AdSkill",
     "text": "Коммерческий проект. AdSkill - это сервис для запуска и оптимизации рекламных компаний. Проект представляет из себя две админ-панели, одна - для клиента, вторая - для администратора(модератора). Стилистически они одинаковы, но по сути это два разных проекта каждый со своей логикой работы. Используемые технологии: vite, Vue3, Pinia, Vue-router, Quasar, TypeScript, SCSS, BEM.",
@@ -8,7 +16,7 @@
     "urlProject": "https://client.as.dev.antonymous.ru"
   },
   {
-    "id": 2,
+    "id": 10,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Qplet.webp",
     "name": "Qplet",
     "text": "Коммерческий проект. Qplet - это площадка для начинающих музыкантов и их слушателей. Используемые технологии: vite, Vue3, Pinia, Vue-router, SSR, JS, SCSS, BEM.",
@@ -16,7 +24,7 @@
     "urlProject": "https://web.qp.dev.antonymous.ru/home"
   },
   {
-    "id": 3,
+    "id": 9,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/EasySpeak.webp",
     "name": "Easy Speak",
     "text": "Коммерческий проект. Easy Speak или Говри Легко - это лендинг с описанием и возможностью покупок героев, используемых в мобильном обучающем приложении для детей. Используемые технологии: gulp, js, html, scss, BEM.",
@@ -24,7 +32,7 @@
     "urlProject": "https://xn--b1abbhooevbfq.com/"
   },
   {
-    "id": 4,
+    "id": 8,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/UpRating.webp",
     "name": "UpRating",
     "text": "Коммерческий проект. UpRating - это сервис для поднятия рейтинга своего бизнеса на любой площадке. Используемые технологии: vite, vue3, quasar, js.",
@@ -32,7 +40,7 @@
     "urlProject": "https://admin.nfc.emitlab.ru/login"
   },
   {
-    "id": 5,
+    "id": 7,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/SN.webp",
     "name": "Speaky Ninja",
     "text": "Коммерческий проект. Небольшой магазин игровой валюты для мобильного приложения по изучению английского языка. Используемые технологии: vite, vue3, js, scss, BEM.",
@@ -48,7 +56,7 @@
     "urlProject": "https://eugene-gif.github.io/Desire/"
   },
   {
-    "id": 7,
+    "id": 5,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Rentiz.webp",
     "name": "Rentiz",
     "text": "Pet-проект. Rentiz - это адаптивный под все типы устройств лендинг по продаже и съему недвижимости. Используемые технологии: gulp, html, css, scss, js, BEM.",
@@ -56,7 +64,7 @@
     "urlProject": "https://eugene-gif.github.io/Rentiz/" 
   },
   {
-    "id": 8,
+    "id": 4,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Pink.webp",
     "name": "Pink",
     "text": "Pet-проект. Pink - это многостраничный(MPA) адаптивный сайт приложения для создания красочных фото. Используемые технологии: gulp, html, css, scss, js, BEM.",
@@ -64,7 +72,7 @@
     "urlProject": "https://eugene-gif.github.io/Pink/"
   },
   {
-    "id": 9,
+    "id": 3,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Build-house.webp",
     "name": "Build House",
     "text": "Тестовое задание. Build House - это лендинг по продаже недвижимости в городе Краснодаре. Являлся моим тестовым заданием, после него я попал на работу. Используемые технологии: gulp, html, scss, js, BEM.",
@@ -72,7 +80,7 @@
     "urlProject": "https://eugene-gif.github.io/BuildHouse/"
   },
   {
-    "id": 10,
+    "id": 2,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Tykalka.webp",
     "name": "Тыкалка",
     "text": "Pet-проект. Тыкалка - это небольшая забавная игра, находящаяся на одной html-странице с. Используемые технологии: html, css, js.",
@@ -80,7 +88,7 @@
     "urlProject": "https://eugene-gif.github.io/MiniGame/"
   }, 
   {
-    "id": 11,
+    "id": 1,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/VSlider.webp",
     "name": "Vertical Slider",
     "text": "Pet-проект. Вертикальный слайдер - просто красивый красочный слайдер написанный на чистом html, css и js.",
