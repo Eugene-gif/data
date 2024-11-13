@@ -4,7 +4,7 @@
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Filmography.webp",
     "name": "Фильмография",
     "text": "Pet-проект. Фильмография - это проект для поиска и сохранения ваших любимых фильмов. Можно найти практически любой фильм или сериал, сохранить его в избранное, добавить его в список просмотренных, или добавить его в список непросмотренных фильмов. Также можно удалить. Используемые технологи: API Кинопоиска, Vite, Vue3, pinia, JS, CSS.",
-    "urlCode": "", 
+    "urlCode": "https://github.com/Eugene-gif/filmography", 
     "urlProject": "https://eugene-gif.github.io/filmography/"
   },
   {
