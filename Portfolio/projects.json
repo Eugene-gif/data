@@ -14,7 +14,10 @@
     "text": "Коммерческий проект. CRMD - это сервис для удобной работы подрядчиков и дизайнеров интерьеров. Проект имеет ролевую модель подрядчика и дизайнера. Используемые технологии: Webpack, Vue3, Vuex, Vue-router, Quasar, JS, BEM, SCSS.",
     "urlCode": "", 
     "urlProject": "https://crmd1.tmweb.ru",
-    "moreInfo": "login: 'test-designer@mailto.plus'; passowrd: '12345678'"
+    "moreInfo": {
+      "login": "test-designer@mailto.plus",
+      "password": "12345678" 
+    }
   },
   {
     "id": 11,
