@@ -1,5 +1,13 @@
 [
   {
+    "id": 14,
+    "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/pecom.webp",
+    "name": "Pecom",
+    "text": "Коммерческий проект. Pecom.ru — это веб‑приложение крупнейшего логистического оператора ПЭК, позволяющее клиентам рассчитывать стоимость и сроки доставки, оформлять перевозки и отслеживать грузы онлайн. Сайт предоставляет карту терминалов и пунктов выдачи, калькулятор расчёта стоимости доставки грузов, личный кабинет для юр- и физлиц, интеграции через API и инструменты для управления заявками и документами. Интерфейс адаптирован под мобильные устройства, поддерживает онлайн-оплату и уведомления. Используемые технологи: Webpack, Vue2, vuex, vue-router, React, TypeScript, CSS-modules, SCSS.",
+    "urlCode": "", 
+    "urlProject": "https://pecom.ru"
+  },
+  {
     "id": 13,
     "img": "https://raw.githubusercontent.com/Eugene-gif/data/main/Portfolio/images/Filmography.webp",
     "name": "Фильмография",
